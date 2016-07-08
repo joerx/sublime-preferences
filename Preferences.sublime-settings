@@ -22,8 +22,8 @@
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
-		100,
-		120
+		80,
+		100
 	],
 	"tab_size": 2,
 	"folder_exclude_patterns":
