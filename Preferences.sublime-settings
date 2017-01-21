@@ -1,6 +1,13 @@
 {
-	"theme": "Boxy Ocean.sublime-theme",
-  	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
@@ -26,10 +33,8 @@
 		100
 	],
 	"tab_size": 4,
-	"folder_exclude_patterns":
-	[
-		".svn", ".git", ".hg", "CVS", "node_modules"
- 	],
+	"theme": "Boxy Ocean.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"preview_on_click": false
 }
